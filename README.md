@@ -1,9 +1,5 @@
 # 🧑‍💻 [Anand Okade](https://developers.google.com/)
   
 ### Hey❗ I have been building robots since i was a kid. 
-![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)
-
-
-
-
+![Comp 2](https://user-images.githubusercontent.com/90754521/146512697-ebc168da-65de-4d40-baf5-6fa300db1719.gif)
 
